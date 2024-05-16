@@ -98,6 +98,10 @@ button{
     margin: 10px 0px;
 }
 
+.first-button{
+    font-size:16px;
+}
+
 .sign-up{
     background-color: #3882F6;
     border: 2px solid #F9FAF8;

@@ -124,7 +124,7 @@ button{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 80px;
+    padding: 50px;
 }
 
 .small-images{
@@ -152,4 +152,16 @@ button{
     align-items: center;
     text-align: center;
     width: 150px;
+}
+
+.second-title{
+    font-family: sans-serif;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 1000;
+    margin: 10px 0px 50px 0px;
+}
+
+.subtext{
+    font-family: sans-serif;
 }

@@ -217,3 +217,17 @@ button{
 .text{
     margin: 0;
 }
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    background-color: #1F2937;
+    padding: 20px;
+}
+
+.footer-text{
+    color: #F9FAF8;
+    font-family: sans-serif;
+}

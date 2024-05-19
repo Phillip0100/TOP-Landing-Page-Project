@@ -193,3 +193,27 @@ button{
     font-size: 24px;
     font-weight: 700;
 }
+
+.section-four-container{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9FAF8;
+    padding: 60px;
+}
+
+.section-four{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.action,
+.text{
+    margin: 0;
+}
